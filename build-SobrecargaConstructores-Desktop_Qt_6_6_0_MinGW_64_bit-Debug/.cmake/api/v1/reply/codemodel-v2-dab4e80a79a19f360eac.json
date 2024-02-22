@@ -1,0 +1,61 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-af38b0efe2af96803a6b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SobrecargaConstructores",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "SobrecargaConstructores::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SobrecargaConstructores-Debug-a301c84e2c7efd64d093.json",
+					"name" : "SobrecargaConstructores",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Ingra/OneDrive/Documentos/POO/build-SobrecargaConstructores-Desktop_Qt_6_6_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/Ingra/OneDrive/Documentos/POO/SobrecargaConstructores"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
